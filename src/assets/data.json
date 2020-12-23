@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Vue.js Course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus erat, condimentum id scelerisque a, malesuada vel nisl. Cras tristique, augue vitae lobortis ultricies, tortor nibh congue justo, eu molestie.",
+      "price": 1000,
+      "date": "01.01.2020"
+    },
+    {
+      "id": 2,
+      "name": "React.js Course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus erat, condimentum id scelerisque a, malesuada vel nisl. Cras tristique, augue vitae lobortis ultricies, tortor nibh congue justo, eu molestie.",
+      "price": 1500,
+      "date": "02.01.2020"
+    },
+    {
+      "id": 3,
+      "name": "Angular Course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus erat, condimentum id scelerisque a, malesuada vel nisl. Cras tristique, augue vitae lobortis ultricies, tortor nibh congue justo, eu molestie.",
+      "price": 1600,
+      "date": "03.01.2020"
+    },
+    {
+      "id": 4,
+      "name": "node.js Course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus erat, condimentum id scelerisque a, malesuada vel nisl. Cras tristique, augue vitae lobortis ultricies, tortor nibh congue justo, eu molestie.",
+      "price": 1700,
+      "date": "04.01.2020"
+    },
+    {
+      "id": 5,
+      "name": "HTML and CSS Course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus erat, condimentum id scelerisque a, malesuada vel nisl. Cras tristique, augue vitae lobortis ultricies, tortor nibh congue justo, eu molestie.",
+      "price": 1800,
+      "date": "05.01.2020"
+    },
+    {
+      "id": 6,
+      "name": "Advanced JavaScript Course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacus erat, condimentum id scelerisque a, malesuada vel nisl. Cras tristique, augue vitae lobortis ultricies, tortor nibh congue justo, eu molestie.",
+      "price": 1900,
+      "date": "06.01.2020"
+    }
+  ]
+}
